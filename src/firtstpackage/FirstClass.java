@@ -17,6 +17,7 @@ public class FirstClass {
 		System.out.println("here is another conflict we have from local master branch...");
 		
 		System.out.println("local fetaure branch");
+		System.out.println("here is the conflict from remote master branch");
 		
 		
 
